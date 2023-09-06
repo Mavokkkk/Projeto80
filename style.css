@@ -1,0 +1,16 @@
+
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-image: linear-gradient(to right, blue,#fc0fc0, #00FF00,#FFFF00);
+    animation: degrade-animado 5s infinite alternate; 
+
+}
+h2 {
+    font-size: 20px;
+    color: white;
+
+}
+img {
+    border-radius: 20px;
+}
